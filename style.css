@@ -1,0 +1,39 @@
+.primery-title {
+  margin-bottom: 0px;
+}
+
+.input {
+  border-radius: 8px;
+  margin: 15px 15px 15px 5px;
+}
+
+.input-primery {
+  border: 2px solid #C0587E;
+}
+
+.input-primery:focus {
+  outline-color: #8b3f5b;
+}
+
+.input-secondary {
+  border: 2px solid #EA592A;
+}
+
+.input-secondary:focus {
+  outline-color: #b24723;
+}
+
+.input-small {
+  padding: 6px 5px;
+  font-size: 15px;
+}
+
+.input-medium {
+  padding: 10px 8px;
+  font-size: 18px;
+}
+
+.input-large {
+  padding: 14px 11px;
+  font-size: 20px;
+}
